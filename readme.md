@@ -1,6 +1,6 @@
 ## Animated galaxy shader with Three.js
 
-<!-- Shader blob with custom fresnel effect and noise shader pass. [Three.js](https://threejs.org/). Les musiques sont récupérés grâce à l'API de [Deezer].(https://developers.deezer.com/login?redirect=/api) J'ai ensuite été libre du choix du design et des objets 3D que je voulais rajouter. -->
+<!-- Shader blob with custom fresnel effect and noise shader pass. [Three.js](https://threejs.org/). Les musiques sont récupérés grâce à l'API de [Deezer].(https://developers.deezer.com/login?redirect=/api) -->
 
 ## Links
 
